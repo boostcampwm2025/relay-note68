@@ -38,7 +38,8 @@ Python을 통해 샤워기 환경을 성공적으로 구현한 경우 달성한 
 
 ### 실제로 구현하는 경우
 
-![image.png](AI%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%84%80%E1%85%B5%20234186e820ab804ca4ecf41194437c27/image.png)
+<img width="710" height="196" alt="image" src="https://github.com/user-attachments/assets/1371177d-5e3f-4d3f-bd84-ec5db5967e9c" />
+
 
 처음에 구상할 때는 크게 생각하지 못했는데, 안전상의 이슈가 있을 수 있습니다.
 
@@ -50,7 +51,9 @@ Python을 통해 샤워기 환경을 성공적으로 구현한 경우 달성한 
 
 **참고**
 
-![image.png](AI%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%84%80%E1%85%B5%20234186e820ab804ca4ecf41194437c27/image%201.png)
+<img width="713" height="376" alt="image" src="https://github.com/user-attachments/assets/9a82045e-4a75-4ae3-b6bb-aff848e48899" />
+
+
 
 그리고 이를 실제로 구현하려면 Arduino 등의 장비가 필요해 보이는데 릴레이 프로젝트 취지에는 맞지 않는 것 같아서 현실의 구조를 모방한 샌드박스 환경에서 퀘스트를 진행해볼까 합니다.
 
