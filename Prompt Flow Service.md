@@ -100,7 +100,8 @@
     ```
     
 - 플로우차트 예시
-![alt text](image.png)
+<img width="349" height="567" alt="image" src="https://github.com/user-attachments/assets/0ac28ea4-7750-4dfc-98a3-9bc8557256fe" />
+
 ---
 ## 🎯 달성기준
 ✅ 루틴 추가
