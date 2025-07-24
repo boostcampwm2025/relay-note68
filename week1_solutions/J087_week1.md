@@ -23,7 +23,7 @@
 
 - 겨울 분위기의 도시 뱌경 사진인 아래 사진을 선정 하였습니다
 
-![릴레이 프로젝트 사진](https://gist.github.com/user-attachments/assets/4e341f5d-4cc5-4482-983c-b0c65fcdd9d4)
+![릴레이 프로젝트 사진](./J087_week1_assets/릴레이%20프로젝트%20사진.jpg)
 
 ### 2. 선정한 이미지 분석
 
@@ -49,7 +49,7 @@
   ```
 - 결과 이미지
 
-    <img width="1024" height="1536" alt="첫번째 결과" src="https://gist.github.com/user-attachments/assets/3137cbf6-d91f-4be7-a3c3-9e9bc1a0fd95" />
+  ![첫번째 결과](./J087_week1_assets/첫번째%20결과.png)
 
   - 원래 이미지와 비교하였을때 보다 빛번짐 효과나 붉은 색감의 느낌이 적음
   - 건물의 높이가 원래 생각했던 이미지보다 작음
@@ -64,7 +64,7 @@
   ```
 - 결과 이미지
 
-    <img width="1024" height="1536" alt="두번째 결과" src="https://gist.github.com/user-attachments/assets/6be29e01-c0b5-4924-81c7-b4fefa5a1593" />
+    ![두번째 결과](./J087_week1_assets/두번째%20결과.png)
 
   - 조금더라는 기준이 모호하여 사진이 붉게 나온것으로 생각됨
   - 색감의 기준을 정하여 다시 프롬프팅 해야겠다 생각함
@@ -79,7 +79,7 @@
   ```
 - 결과 이미지
 
-    <img width="1024" height="1536" alt="세번째 결과" src="https://gist.github.com/user-attachments/assets/a331db2c-0051-4856-85d8-7a60906e7595" />
+    ![세번째 결과](./J087_week1_assets/세번째%20결과.png)
 
   - 확실히 보완해야 할 부분을 명확하게 텍스트로 전달했을때 결과가 더 나아진 것을 확인할 수 있었다.
 
