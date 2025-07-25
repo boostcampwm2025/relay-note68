@@ -17,8 +17,11 @@
 
 한 줄로 핵심을 요약하고, 추천 이유는 간단하게 설명해줘.
 ```
-
+### 수행 방법
+간단한 프롬프트를 만들고 직접 활용해보는 것을 목표로 했습니다
 ### 미션 수행 
 <img width="557" height="362" alt="릴레이프로젝트" src="https://github.com/user-attachments/assets/65f8af42-aec4-4cab-808a-28b5abaec166" />
 
 ### 미션 결과
+맛있는 냉우동을 먹었습니다
+![KakaoTalk_20250725_131027160](https://github.com/user-attachments/assets/495657f9-2c9d-431f-94f5-3d9d2c627a95)
